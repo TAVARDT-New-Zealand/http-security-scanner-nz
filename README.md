@@ -48,4 +48,12 @@ For NZISM alignment, CERT NZ mitigation implementation, and technical privacy co
 
 ***
 
+## Useful Links
+
+* **Corporate Portal:** https://ag.tavardt.com/nz/
+* **Diagnostic Suite:** https://tools.tavardt.com/nz/
+* **Technical Contact:** https://ag.tavardt.com/nz/contact/
+
+***
+
 © 2026 TAVARDT. All rights reserved.
