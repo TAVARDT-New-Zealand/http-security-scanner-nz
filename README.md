@@ -1,4 +1,4 @@
-# HTTP Security Headers Scanner | TAVARDT New Zealand
+# HTTP Security Headers Scanner
 
 [![Scope of Perimeter Verification](https://img.shields.io/badge/TAVARDT-Technical%20Audit-5b3cf5.svg)](https://tools.tavardt.com/nz/security-headers-check/)
 Automated technical audit of HTTP security headers aligned with NZISM controls, CERT NZ recommendations, and the Privacy Act 2020.
@@ -45,3 +45,7 @@ Verify your digital infrastructure against technical baselines using the TAVARDT
 ## 4. Technical Advisory & Remediation
 
 For NZISM alignment, CERT NZ mitigation implementation, and technical privacy consulting in New Zealand, contact **TAVARDT New Zealand**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
